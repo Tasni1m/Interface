@@ -39,7 +39,8 @@ __screenshots__/
 *.timestamp-*-*.mjs
 node_modules/
 dist/
-
+.env
 backend_fastApi/.venv/
 __pycache__/
 *.pyc
+

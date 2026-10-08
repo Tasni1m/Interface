@@ -24,7 +24,7 @@ See [Vite Configuration Reference](https://vite.dev/config/).
 ```sh
 npm install
 ```
-
+python -m fastapi dev main.py
 ### Compile and Hot-Reload for Development
 
 ```sh
